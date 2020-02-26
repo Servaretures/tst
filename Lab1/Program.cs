@@ -10,7 +10,7 @@ namespace Lab1
             int a = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine("V = " + Convert.ToString(Calculate(a)));
             Console.WriteLine("S = " + Convert.ToString(Calculate2(a)));
-            Console.WriteLine("BlaBlaBLa");
+
         }
         public static int Calculate(int s)
         {
